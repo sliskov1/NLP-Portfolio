@@ -10,4 +10,4 @@
 
 ## Assignment 2:
 
-[Program can be found here](Assignment2/CS4395.001_Assignment2_svl180002.pdf)
+[Document for assignment can be found here](Assignment2/CS4395.001_Assignment2_svl180002.pdf)
