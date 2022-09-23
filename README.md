@@ -11,3 +11,7 @@
 ## Assignment 2:
 
 [Document for assignment can be found here](Assignment2/CS4395.001_Assignment2_svl180002.pdf)
+
+## Assignment 3:
+
+[Document for assignment can be found here](Assignment3/assignment3_svl180002.py)
