@@ -15,3 +15,7 @@
 ## Assignment 3:
 
 [Document for assignment can be found here](Assignment3/assignment3_svl180002.py)
+
+## Assignment 4:
+
+[Document for assignment can be found here](Assignment4/WordNet_Portfolio_svl180002.ipynb - Colab.pdf)
