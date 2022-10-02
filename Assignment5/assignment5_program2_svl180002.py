@@ -101,25 +101,3 @@ if __name__ == '__main__':
 
     print("Line numbers of the incorrectly classified items: ", incorrectList)
     print("Accuracy: ", (int)(accuracy), "%")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
