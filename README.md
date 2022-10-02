@@ -19,3 +19,8 @@
 ## Assignment 4:
 
 [Document for assignment can be found here](Assignment4/WordNet_Portfolio_svl180002.ipynb_Colab.pdf)
+
+## Assignment 5:
+[Program 1 for assignment can be found here](Assignment5/assignment5_program1_svl180002.py)
+[Program 2 for assignment can be found here](Assignment5/assignment5_program2_svl180002.py)
+
