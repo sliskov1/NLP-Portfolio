@@ -6,7 +6,7 @@ In training to generate text in the language model we first prepare the train da
 Traditionally, language model performance is measured by perplexity, cross entropy, and bits-per-character (BPC). As language models are increasingly being used as pre-trained models for other NLP tasks, they are often also evaluated based on how well they perform on downstream tasks.
 Google N-Gram viewer is new and cool way of seeing if sequence of words have a better probability than other sequence of words. 
 
-![alt text](Assignment5\google_n-gram.png)
+![My Image](google_n-gram.png)
 
 References:
 
