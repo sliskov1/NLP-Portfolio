@@ -25,4 +25,8 @@
 [Program 2 for assignment can be found here](Assignment5/assignment5_program2_svl180002.py),
 [Narrative for assignment can be found here](Assignment5/README.md)
 
+## Assignment 6:
+[Program for assignment can be found here](Assignment6/assignment6_svl180002.py), 
+[Narrative for assignment can be found here](Assignment6/README.md)
+
 
