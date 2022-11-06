@@ -4,34 +4,33 @@
 
 [Document for assignment can be found here](portfolioassignment0_cs4395.001_svl180002.pdf) 
 
-## Assignment 1:
+## Text Processing:
 
 [Document for assignment can be found here](Assignment1/Assignment1_Overview_svl180002.pdf)
 
-## Assignment 2:
+## NLTK:
 
 [Document for assignment can be found here](Assignment2/CS4395.001_Assignment2_svl180002.pdf)
 
-## Assignment 3:
+## Guessing Game:
 
 [Document for assignment can be found here](Assignment3/assignment3_svl180002.py)
 
-## Assignment 4:
+## WordNet:
 
 [Document for assignment can be found here](Assignment4/WordNet_Portfolio_svl180002.ipynb_Colab.pdf)
 
-## Assignment 5:
+## N Gram:
 [Program 1 for assignment can be found here](Assignment5/assignment5_program1_svl180002.py), 
 [Program 2 for assignment can be found here](Assignment5/assignment5_program2_svl180002.py),
 [Narrative for assignment can be found here](Assignment5/README.md)
 
-## Assignment 6:
+## Web Crawler:
 [Program for assignment can be found here](Assignment6/assignment6_svl180002.py), 
 [Narrative for assignment can be found here](Assignment6/README.md)
 
-## Assignment 7:
+## Sentence Parsing:
 [Document for assignment can be found here](Sentence_Parsing_CS4395.001_svl180002.pdf)
 
-## Assignment 8:
+## Author Attribution:
 [Document for assignment can be found here](Author_Attribution_svl180002.ipynb - Colab.pdf)
-
