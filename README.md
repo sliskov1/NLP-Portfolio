@@ -29,4 +29,6 @@
 [Program for assignment can be found here](Assignment6/assignment6_svl180002.py), 
 [Narrative for assignment can be found here](Assignment6/README.md)
 
+## Assignment 7:
+[Doucment for assignment can be found here](Sentence_Parsing_CS4395.001_svl180002.pdf)
 
