@@ -33,4 +33,4 @@
 [Document for assignment can be found here](Sentence_Parsing_CS4395.001_svl180002.pdf)
 
 ## Author Attribution:
-[Document for assignment can be found here](Author_Attribution_svl180002.ipynb - Colab.pdf)
+[Document for assignment can be found here](Author_Attribution_svl180002.ipynb)
