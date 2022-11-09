@@ -34,3 +34,6 @@
 
 ## Author Attribution:
 [Document for assignment can be found here](Author_Attribution_svl180002.ipynb.pdf)
+
+## ACL Summary:
+[Document for assignment can be found here](ACL_Summary_svl180002.pdf)
