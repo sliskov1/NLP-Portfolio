@@ -1,0 +1,62 @@
+{"intents": [
+    {"tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {"tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {"tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {"tag": "mario",
+      "patterns": [
+        "Who is Mario?",
+        "Tell me about Mario.",
+        "Give me some background information about Mario."
+      ],
+      "responses": [
+        "Mario is a character created by Japanese video game designer Shigeru Miyamoto. He is the title character of the Mario franchise and the mascot of Japanese video game company Nintendo. Mario has appeared in over 200 video games since his creation. Depicted as a short, pudgy, Italian plumber who resides in the Mushroom Kingdom, his adventures generally center on rescuing Princess Peach from the Koopa villain Bowser. Mario has access to a variety of power-ups that give him different abilities. Mario's fraternal twin brother is Luigi."
+      ]
+    },
+    {"tag": "nintendo",
+      "patterns": [
+        "What is nintendo?",
+        "What are the top 10 Nintendo games?"
+      ],
+      "responses": [
+        "The top 10 most popular Nintendo games are Super Smash Bros Melee, Super Metroid, Mario Kart 64, Super Mario Bros., The Legend Of Zelda: Breath Of The Wild, The Legend Of Zelda: A Link To The Past, Super Mario 64, Super Mario World, The Legend Of Zelda: Ocarina Of Time, Super Mario Bros 3",
+        "Nintendo started out as a small playing card company in Japan"
+        ]
+    },
+    {"tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    }
+  ]
+}
