@@ -1,0 +1,12 @@
+Sean: Hello!
+Bot: Hello, thanks for visiting
+Sean: I've never heard of Mario.
+Bot: Mario has access to a variety of power-ups that give him different abilities. Mario's fraternal twin brother is Luigi.
+Sean: thanks
+Bot: Happy to help!
+Sean: popular nintendo games?
+Bot: The top 10 most popular Nintendo games are Super Smash Bros Melee, Super Metroid, Mario Kart 64, Super Mario Bros., The Legend Of Zelda: Breath Of The Wild, The Legend Of Zelda: A Link To The Past, Super Mario 64, Super Mario World, The Legend Of Zelda: Ocarina Of Time, Super Mario Bros 3
+Sean: What are your favorite video games?
+Bot: My favorite video games to play are Detroit: Become Human, Cyberpunk 2077, and Halo!
+Sean: see you later!
+Bot: Bye! Come back again soon.

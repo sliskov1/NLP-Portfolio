@@ -99,7 +99,7 @@ def chat():
     f = open("convo_%s.txt" % (name), 'x')
     print("Start talking with the bot! (type quit to stop)")
     while(True):
-        inp = input("You: ")
+        inp = input(name + ": ")
         if inp.lower() == "quit":
             f.close()
             break
@@ -112,7 +112,6 @@ def chat():
             if tg['tag'] == tag:
                 responses = tg['responses']
         answer = random.choice(responses)
-        print(answer)
+        print("Bot: " + answer)
         f.write(name + ": " + inp + "\nBot: " + answer + "\n")
-
 chat()
