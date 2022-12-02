@@ -42,3 +42,7 @@
 
 [Program for assignment can be found here](Chatbot_Project/project1_svl180002.py)
 [Document for assignment can be found here](Chatbot_Project/Chatbot_Portfolio_Report.pdf)
+
+## Text Classification
+
+[Document for assignment can be found here](Text_Classification/)
